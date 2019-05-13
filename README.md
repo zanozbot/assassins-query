@@ -1,2 +1,2 @@
-# assassins-query
-Building a simple index and implementing querying against it.
+# Assassin's Query
+> Building a simple index and implementing querying against it.
