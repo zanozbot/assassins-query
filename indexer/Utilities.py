@@ -3,7 +3,6 @@ import os, re
 from lxml import html, etree
 from lxml.html.clean import Cleaner
 from nltk import word_tokenize
-import unidecode
 
 # Base path for extracted documents
 base_path = '.' + os.path.sep + 'extracted'

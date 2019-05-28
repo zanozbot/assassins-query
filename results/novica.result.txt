@@ -1,0 +1,7 @@
+Results for query: "novica"
+Retrieved 3 documents.
+Frequencies  Document                                 Snippet                                                               
+-----------  ---------------------------------------  ----------------------------------------------------------------------
+          1  e-uprava.gov.si/e-uprava.gov.si.24.html  v EU Parlament Novica Volitve v EU                                    
+          1  e-uprava.gov.si/e-uprava.gov.si.57.html  v cestnem prometu Novica Omogočen osebni vpogled                      
+          1  e-uprava.gov.si/e-uprava.gov.si.60.html  veljavnosti prometnega dovoljenja Novica Vključitev novih zavarovalnic
