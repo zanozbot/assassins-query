@@ -1,5 +1,7 @@
 # Assassin's Query
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Building a simple index and implementing querying against it.
 
 ## Installation instructions
