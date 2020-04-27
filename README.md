@@ -1,5 +1,6 @@
 # Assassin's Query
-> Building a simple index and implementing querying against it.
+
+Building a simple index and implementing querying against it.
 
 ## Installation instructions
 Before running the project you will have to install the following dependencies.
